@@ -226,15 +226,6 @@ graph TD
 - [Groq Documentation](https://console.groq.com/docs)
 - [Pollinations AI](https://pollinations.ai/)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 To-Do
 
@@ -245,25 +236,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Web interface with Streamlit
 - [ ] Database integration for content history
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- CrewAI team for the amazing framework
-- Groq for providing free LLM access
-- Pollinations AI for free image generation
-- Open source community
-
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Eshtiaque Ahmed 
 
-Project Link: [https://github.com/yourusername/instagram-content-generator](https://github.com/yourusername/instagram-content-generator)
-
----
-
-⭐ **If you find this project helpful, please give it a star!** ⭐
-
-Made with ❤️ using CrewAI and Python
